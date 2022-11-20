@@ -18,6 +18,9 @@ public class Kim2Application {
 		Member member4 = new Member(40, "PARK");
 
 		System.out.println(member1.toString());
+		System.out.println(member2.toString());
+
+
 /**
 		List<Member> list = new ArrayList<>();
 		list.add(member1);
